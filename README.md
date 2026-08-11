@@ -31,3 +31,9 @@ Student developer working on robotics, embedded systems, and computer vision.
 
 - Lead programmer and competition engineer with [FRC Team 6941 IronPulse](https://github.com/frc6941).
 - Programming mentor for [FTC Team 30319 LithiumPulse](https://github.com/frc6941/2026-ftc-robot).
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="./profile/streak.svg" alt="GitHub streak" />
+  </a>
+</p>
