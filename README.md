@@ -1,6 +1,6 @@
 # Minda Huang
 
-Student developer working on robotics, embedded systems, and computer vision.
+Student developer building projects across computer science and electrical engineering.
 
 <p>
   <a href="https://www.linkedin.com/in/minda-huang-696590336/">
@@ -11,9 +11,20 @@ Student developer working on robotics, embedded systems, and computer vision.
   </a>
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,qt,pytorch,opencv,arduino,unity,linux,git&theme=light" alt="Technology stack" />
-</p>
+## Tech Stack
+
+**Languages:** `C++` · `Python` · `Java` · `C#`  
+**Frameworks & Platforms:** `Qt` · `WPILib` · `Unity` · `Arduino`  
+**Engineering & Design:** `JLCEDA` · `Onshape`
+
+<details>
+<summary>Additional Tools</summary>
+
+- **Video & Audio:** Premiere Pro · DaVinci Resolve · Audition
+- **Broadcast & AV:** OBS · ATEM
+- **Graphic Design & Photography:** Photoshop · Illustrator · Lightroom Classic
+
+</details>
 
 ## Selected Projects
 
