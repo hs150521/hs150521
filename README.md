@@ -13,16 +13,51 @@ Student developer building projects across computer science and electrical engin
 
 ## Tech Stack
 
-**Languages:** `C++` · `Python` · `Java` · `C#`  
-**Frameworks & Platforms:** `Qt` · `WPILib` · `Unity` · `Arduino`  
-**Engineering & Design:** `JLCEDA` · `Onshape`
+<p>
+  <strong>Languages</strong>&nbsp;&nbsp;
+  <img src="./assets/tech-stack/cpp.svg" height="28" align="middle" alt="C++" />
+  <img src="./assets/tech-stack/python.svg" height="28" align="middle" alt="Python" />
+  <img src="./assets/tech-stack/java.svg" height="28" align="middle" alt="Java" />
+  <img src="./assets/tech-stack/csharp.svg" height="28" align="middle" alt="C#" />
+</p>
+
+<p>
+  <strong>Frameworks &amp; Platforms</strong>&nbsp;&nbsp;
+  <img src="./assets/tech-stack/qt.svg" height="28" align="middle" alt="Qt" />
+  <img src="./assets/tech-stack/wpilib.svg" height="28" align="middle" alt="WPILib" />
+  <img src="./assets/tech-stack/unity.svg" height="28" align="middle" alt="Unity" />
+  <img src="./assets/tech-stack/arduino.svg" height="28" align="middle" alt="Arduino" />
+</p>
+
+<p>
+  <strong>Engineering &amp; Design</strong>&nbsp;&nbsp;
+  <img src="./assets/tech-stack/jlceda.svg" height="28" align="middle" alt="JLCEDA" />
+  <img src="./assets/tech-stack/onshape.svg" height="28" align="middle" alt="Onshape" />
+</p>
 
 <details>
 <summary>Additional Tools</summary>
+<br>
 
-- **Video & Audio:** Premiere Pro · DaVinci Resolve · Audition
-- **Broadcast & AV:** OBS · ATEM
-- **Graphic Design & Photography:** Photoshop · Illustrator · Lightroom Classic
+<p>
+  <strong>Video &amp; Audio</strong>&nbsp;&nbsp;
+  <img src="./assets/tech-stack/premiere.svg" height="28" align="middle" alt="Premiere Pro" />
+  <img src="./assets/tech-stack/resolve.svg" height="28" align="middle" alt="DaVinci Resolve" />
+  <img src="./assets/tech-stack/audition.svg" height="28" align="middle" alt="Audition" />
+</p>
+
+<p>
+  <strong>Broadcast &amp; AV</strong>&nbsp;&nbsp;
+  <img src="./assets/tech-stack/obs.svg" height="28" align="middle" alt="OBS" />
+  <img src="./assets/tech-stack/atem.svg" height="28" align="middle" alt="ATEM" />
+</p>
+
+<p>
+  <strong>Graphic Design &amp; Photography</strong>&nbsp;&nbsp;
+  <img src="./assets/tech-stack/photoshop.svg" height="28" align="middle" alt="Photoshop" />
+  <img src="./assets/tech-stack/illustrator.svg" height="28" align="middle" alt="Illustrator" />
+  <img src="./assets/tech-stack/lightroom.svg" height="28" align="middle" alt="Lightroom Classic" />
+</p>
 
 </details>
 
@@ -45,6 +80,9 @@ Student developer building projects across computer science and electrical engin
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="./profile/streak.svg" alt="GitHub streak" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+      <img src="./profile/streak.svg" alt="GitHub streak" />
+    </picture>
   </a>
 </p>
