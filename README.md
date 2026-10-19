@@ -61,22 +61,45 @@ Student developer building projects across computer science and electrical engin
 
 </details>
 
-## Selected Projects
+## Personal Projects
 
-- [**RMYC-yolo**](https://github.com/hs150521/RMYC-yolo) — Automatic aiming system developed for the RoboMaster Youth Championship (RMYC).
-- [**Skin Disease Detector**](https://github.com/hs150521/skinDiseaseDetectorBackEnd) — CTB team project; responsible for model training and backend development.
-- **Multiplexer Controller** — Qt and Modbus-based automated testing software developed during an internship.
-- [**BreathSea**](https://github.com/hs150521/BreathSea) — Breath-responsive interactive artwork.
+- [**JLCEDA MCP Community**](https://github.com/hs150521/JLCEDA-MCP-Community) — MCP server for schematic/PCB editing and diagnostics.
+- [**BreathSea**](https://github.com/hs150521/BreathSea) — Breath-controlled, Unity-based ocean artwork.
+- [**OutlookMailboard**](https://github.com/hs150521/OutlookMailboard) — Outlook multi-inbox dashboard with service-signup tracking.
 
-## Award-winning Hackathon Projects
+## Teams & Organizations
 
-- [**爱搞机鸭**](https://gallery.adventure-x.cn/projects/cms0k6bhe001p02jvziv4v67b) — Desktop AI companion integrating physical sensing and digital agents. Embedded developer; second prize.
-- [**Silent Speak**](https://gallery.adventure-x.cn/projects/2500d2b4-87f2-43a3-89fa-a14aa05e9ea9?event=advx-2025) — Lip-reading communication prototype for AR glasses. Embedded systems and networking; second prize.
+### [IronPulse Robotics · FRC 6941](https://github.com/frc6941)
 
-## Experience
+*Programming lead · robot controls, autonomous systems and team software.*
 
-- Lead programmer and competition engineer with [FRC Team 6941 IronPulse](https://github.com/frc6941).
-- Programming mentor for [FTC Team 30319 LithiumPulse](https://github.com/frc6941/2026-ftc-robot).
+- **2026 Robot Software** — Robot integration, autonomous selection, vision-assisted shooting and turret control. Competition robot (private) · Offseason robot (private)
+- [**2026 Scoring System**](https://github.com/frc6941/2026-Scoring-System) — Embedded hardware connecting field scoring inputs, lights and motors over UDP.
+- **2025 Robot Software** — Auto-aiming, automated shooting, state-machine logic and competition fixes. [Competition Season](https://github.com/frc6941/2025-competition-robot) · [Offseason Team 6941](https://github.com/frc6941/2025-offseason-robot-big) · [Offseason Team 10541](https://github.com/frc6941/2025-offseason-robot-small)
+- [**2025 Vision**](https://github.com/frc6941/2025-vision) — Remote configuration, MJPEG streaming and buffer handling.
+- **2024 Offseason Robots** — Swerve control, Limelight integration and autonomous routines. [Team 6941](https://github.com/frc6941/2024-offseason-robot-big) · [Team 9620](https://github.com/frc6941/2024-offseason-robot-small)
+- **Team Platforms** — IronPulse OpenList (private) (team drive: OIDC, WebDAV and file streaming) · IronPulse AI (private) (AI model gateway, chat and attachments) · IronPulse Portal (private) (OIDC sign-in, permissions and integrations).
+
+### FTC 30319 · LithiumPulse
+
+Programming mentor for DECODE. [Code](https://github.com/frc6941/6941DecodeComp)
+
+### [InitRobot](https://github.com/InitRobot) · VEX / RoboMaster
+
+- [**YOLO Auto-Aiming**](https://github.com/InitRobot/RMYC-yolo) — Model training/inference, ONNX optimization and SDK integration
+- [**RoboMaster 2024**](https://github.com/InitRobot/2024RM-J3)
+- **VEX 2023** — Autonomous routines and reference programs. [Robot code](https://github.com/InitRobot/2023VEX-Code) · [References](https://github.com/InitRobot/2023VEX-Reference)
+
+### Shanghai Namin Technology Co., Ltd.
+
+*Software & hardware engineering intern.*
+
+- **Automated Piezoceramic Tester (private)** — Designed, built & deployed a multichannel Qt/Modbus tester; improved inspection efficiency by 80%.
+
+## Hackathons
+
+- [**爱搞机鸭**](https://gallery.adventure-x.cn/projects/cms0k6bhe001p02jvziv4v67b) — Sensor-driven desktop AI companion; embedded development. **Second Prize of AdventureX 2026.**
+- [**Silent Speak**](https://gallery.adventure-x.cn/projects/2500d2b4-87f2-43a3-89fa-a14aa05e9ea9?event=advx-2025) — AR-glasses lip-reading communication prototype; embedded/networking. **Second Prize of AdventureX 2025.**
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
