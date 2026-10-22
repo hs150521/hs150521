@@ -22,7 +22,7 @@ Student developer building projects across computer science and electrical engin
 </p>
 
 <p>
-  <strong>Frameworks &amp; Platforms</strong>&nbsp;&nbsp;
+  <strong>Frameworks</strong>&nbsp;&nbsp;
   <img src="./assets/tech-stack/qt.svg" height="28" align="middle" alt="Qt" />
   <img src="./assets/tech-stack/wpilib.svg" height="28" align="middle" alt="WPILib" />
   <img src="./assets/tech-stack/unity.svg" height="28" align="middle" alt="Unity" />
@@ -30,13 +30,13 @@ Student developer building projects across computer science and electrical engin
 </p>
 
 <p>
-  <strong>Engineering &amp; Design</strong>&nbsp;&nbsp;
+  <strong>CAD/EDA</strong>&nbsp;&nbsp;
   <img src="./assets/tech-stack/jlceda.svg" height="28" align="middle" alt="JLCEDA" />
   <img src="./assets/tech-stack/onshape.svg" height="28" align="middle" alt="Onshape" />
 </p>
 
 <details>
-<summary>Additional Tools</summary>
+<summary>Additional Skills</summary>
 <br>
 
 <p>
@@ -47,13 +47,13 @@ Student developer building projects across computer science and electrical engin
 </p>
 
 <p>
-  <strong>Broadcast &amp; AV</strong>&nbsp;&nbsp;
+  <strong>Broadcast</strong>&nbsp;&nbsp;
   <img src="./assets/tech-stack/obs.svg" height="28" align="middle" alt="OBS" />
   <img src="./assets/tech-stack/atem.svg" height="28" align="middle" alt="ATEM" />
 </p>
 
 <p>
-  <strong>Graphic Design &amp; Photography</strong>&nbsp;&nbsp;
+  <strong>Graphics</strong>&nbsp;&nbsp;
   <img src="./assets/tech-stack/photoshop.svg" height="28" align="middle" alt="Photoshop" />
   <img src="./assets/tech-stack/illustrator.svg" height="28" align="middle" alt="Illustrator" />
   <img src="./assets/tech-stack/lightroom.svg" height="28" align="middle" alt="Lightroom Classic" />
