@@ -58,48 +58,51 @@ Student developer building projects across computer science and electrical engin
   <img src="./assets/tech-stack/illustrator.svg" height="28" align="middle" alt="Illustrator" />
   <img src="./assets/tech-stack/lightroom.svg" height="28" align="middle" alt="Lightroom Classic" />
 </p>
-
 </details>
 
 ## Personal Projects
 
-- [**JLCEDA MCP Community**](https://github.com/hs150521/JLCEDA-MCP-Community) — MCP server for schematic/PCB editing and diagnostics.
-- [**BreathSea**](https://github.com/hs150521/BreathSea) — Breath-controlled, Unity-based ocean artwork.
-- [**OutlookMailboard**](https://github.com/hs150521/OutlookMailboard) — Outlook multi-inbox dashboard with service-signup tracking.
+- [**JLCEDA MCP Community**](https://github.com/hs150521/JLCEDA-MCP-Community): MCP server for schematic/PCB editing and diagnostics.
+- [**BreathSea**](https://github.com/hs150521/BreathSea): Breath-controlled, Unity-based ocean artwork.
+- [**OutlookMailboard**](https://github.com/hs150521/OutlookMailboard): Outlook multi-inbox dashboard with service-signup tracking.
 
 ## Teams & Organizations
 
-### [IronPulse Robotics · FRC 6941](https://github.com/frc6941)
+### [FRC Team 6941, IronPulse Robotics](https://github.com/frc6941)
 
-*Programming lead · robot controls, autonomous systems and team software.*
+*Programming lead*
 
-- **2026 Robot Software** — Robot integration, autonomous selection, vision-assisted shooting and turret control. Competition robot (private) · Offseason robot (private)
-- [**2026 Scoring System**](https://github.com/frc6941/2026-Scoring-System) — Embedded hardware connecting field scoring inputs, lights and motors over UDP.
-- **2025 Robot Software** — Auto-aiming, automated shooting, state-machine logic and competition fixes. [Competition Season](https://github.com/frc6941/2025-competition-robot) · [Offseason Team 6941](https://github.com/frc6941/2025-offseason-robot-big) · [Offseason Team 10541](https://github.com/frc6941/2025-offseason-robot-small)
-- [**2025 Vision**](https://github.com/frc6941/2025-vision) — Remote configuration, MJPEG streaming and buffer handling.
-- **2024 Offseason Robots** — Swerve control, Limelight integration and autonomous routines. [Team 6941](https://github.com/frc6941/2024-offseason-robot-big) · [Team 9620](https://github.com/frc6941/2024-offseason-robot-small)
-- **Team Platforms** — IronPulse OpenList (private) (team drive: OIDC, WebDAV and file streaming) · IronPulse AI (private) (AI model gateway, chat and attachments) · IronPulse Portal (private) (OIDC sign-in, permissions and integrations).
+> Robot controls, autonomous systems, vision systems, team infrastructure and server maintenance.
 
-### FTC 30319 · LithiumPulse
+- **2026 Season (REBUILT)**: [**Custom Hub Scoring System**](https://github.com/frc6941/2026-Scoring-System), Competition Season, Offseason Team 6941, Offseason Team 9996 *(all private repos)*
+- **2025 Season (REEFSCAPE)**: [**Custom Vision System for SBCs**](https://github.com/frc6941/2025-vision), [Competition Season](https://github.com/frc6941/2025-competition-robot), [Offseason Team 6941](https://github.com/frc6941/2025-offseason-robot-big), [Offseason Team 10541](https://github.com/frc6941/2025-offseason-robot-small)
+- **2024 Season (CRESCENDO)**: [Offseason Team 6941](https://github.com/frc6941/2024-offseason-robot-big), [Offseason Team 9620](https://github.com/frc6941/2024-offseason-robot-small)
+- **Team Platforms**: Customized Cloud Drive Server, AI Gateway, OIDC Portal *(all private repos)*.
 
-Programming mentor for DECODE. [Code](https://github.com/frc6941/6941DecodeComp)
+### FTC Team 30319, LithiumPulse
 
-### [InitRobot](https://github.com/InitRobot) · VEX / RoboMaster
+*Programming mentor*
 
-- [**YOLO Auto-Aiming**](https://github.com/InitRobot/RMYC-yolo) — Model training/inference, ONNX optimization and SDK integration
+- **[2025-2026 Season (DECODE)](https://github.com/frc6941/6941DecodeComp)**
+
+### [InitRobot, VEX & RoboMaster Team](https://github.com/InitRobot)
+
+*Programming lead for junior team*
+
+- [**Auto-Aiming Library for RoboMaster**](https://github.com/InitRobot/RMYC-yolo): Model training/inference, ONNX optimization and SDK integration
 - [**RoboMaster 2024**](https://github.com/InitRobot/2024RM-J3)
-- **VEX 2023** — Autonomous routines and reference programs. [Robot code](https://github.com/InitRobot/2023VEX-Code) · [References](https://github.com/InitRobot/2023VEX-Reference)
+- [**VEX 2023**](https://github.com/InitRobot/2023VEX-Code)
 
 ### Shanghai Namin Technology Co., Ltd.
 
-*Software & hardware engineering intern.*
+*Software & hardware engineering intern*
 
-- **Automated Piezoceramic Tester (private)** — Designed, built & deployed a multichannel Qt/Modbus tester; improved inspection efficiency by 80%.
+- **Automated Piezoceramic Tester *(private repo)***: Designed, built and deployed a multichannel Qt/Modbus piezoceramic tester, improving inspection efficiency by **80%**.
 
 ## Hackathons
 
-- [**爱搞机鸭**](https://gallery.adventure-x.cn/projects/cms0k6bhe001p02jvziv4v67b) — Sensor-driven desktop AI companion; embedded development. **Second Prize of AdventureX 2026.**
-- [**Silent Speak**](https://gallery.adventure-x.cn/projects/2500d2b4-87f2-43a3-89fa-a14aa05e9ea9?event=advx-2025) — AR-glasses lip-reading communication prototype; embedded/networking. **Second Prize of AdventureX 2025.**
+- [**爱搞机鸭**](https://github.com/Still-Work): Sensor-driven desktop AI companion; [**Second Prize of AdventureX 2026.**](https://gallery.adventure-x.cn/projects/cms0k6bhe001p02jvziv4v67b)
+- [**Silent Speak**](https://github.com/Silent-Speak): AR-glasses lip-reading communication prototype; [**Second Prize of AdventureX 2025.**](https://gallery.adventure-x.cn/projects/2500d2b4-87f2-43a3-89fa-a14aa05e9ea9?event=advx-2025)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
